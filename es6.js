@@ -8,7 +8,7 @@ const student = {
 // 1. Template string
 const aboutMe = `My name is ${student.name} age of ${student.age} and I have ${numbers[4]} brothers. We are love ${student.movies[1]} movie`;
 
-// arrow function
+//2. arrow function
 const getSixtySix = () => 66;
 const addFifty = num => num + 50;
 const isEven = x => x % 2 == 0;
@@ -19,7 +19,7 @@ const doMath = (num1, num2) => {
     return sum;
 };
 
-// spread operator(...)
+//3 spread operator(...)
 // const newNumbers = numbers;
 const newNumbers = [...numbers];
 // create a new array from an older array and add an element
