@@ -51,6 +51,7 @@ const employees = {
         }
     }
 };
+
 const { id, designation } = employees;
 const { address, height } = employees.specification;
 const [firstLanguage, secondLanguage, thirdLanguage] = employees.language;
