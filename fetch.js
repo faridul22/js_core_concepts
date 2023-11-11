@@ -16,11 +16,17 @@ console.log(studentObj)
 //     .then(response => response.json())
 //     .then(data => console.log(data))
 
+
+// 3. object keys, values
+const keys = Object.keys(student);
+const values = Object.values(student);
+
+
 const numbers = [2, 3, 4, 5, 6, 7, 8]
 const number = numbers.map(num => num * 2)
 numbers.forEach(num => console.log(num))
 
-
+// NOTE:
 // (for of loop) use on an array like object
 // (for in loop) use on an object
 
