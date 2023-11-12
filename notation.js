@@ -9,12 +9,12 @@ const person = {
 
 // dot notation
 const prof1 = person.profession;
+const sonName = person.son_name;
 
 // bracket notation
 const prof2 = person['profession'];
 const pName = 'profession';
 const prof3 = person[pName];
-const sonName = person.son_name;
 const session = person[25];
 console.log(session)
 console.log(sonName)
