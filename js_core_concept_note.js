@@ -36,5 +36,3 @@
  * 4.4 JSON ( stringify, parse ) 
  * 4.5 convert string to number shortcut
  */
-
-const 
