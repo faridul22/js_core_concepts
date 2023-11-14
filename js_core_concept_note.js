@@ -6,7 +6,6 @@
  * 1.4 loop=> for and while loop,
  * 1.5 function return parameter
  * 1.6 Object property, including array, object
- * 
  * ---------------------------------------------------------------------
  * 
  * 2=> ES6
